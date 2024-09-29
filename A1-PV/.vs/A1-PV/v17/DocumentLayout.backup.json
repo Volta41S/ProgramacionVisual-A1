@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\angel\\Documents\\GitHub\\ProgramacionVisual-A1\\A1-PV\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BA692895-B8B9-47EC-8922-FA9355E63FB4}|A1-PV.vbproj|c:\\users\\angel\\documents\\github\\programacionvisual-a1\\a1-pv\\interfacesv\\fbase2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{BA692895-B8B9-47EC-8922-FA9355E63FB4}|A1-PV.vbproj|solutionrelative:interfacesv\\fbase2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA692895-B8B9-47EC-8922-FA9355E63FB4}|A1-PV.vbproj|c:\\users\\angel\\documents\\github\\programacionvisual-a1\\a1-pv\\interfacesv\\fbase.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{BA692895-B8B9-47EC-8922-FA9355E63FB4}|A1-PV.vbproj|solutionrelative:interfacesv\\fbase.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA692895-B8B9-47EC-8922-FA9355E63FB4}|A1-PV.vbproj|c:\\users\\angel\\documents\\github\\programacionvisual-a1\\a1-pv\\interfacesv\\fbase2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{BA692895-B8B9-47EC-8922-FA9355E63FB4}|A1-PV.vbproj|solutionrelative:interfacesv\\fbase2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA692895-B8B9-47EC-8922-FA9355E63FB4}|A1-PV.vbproj|c:\\users\\angel\\documents\\github\\programacionvisual-a1\\a1-pv\\interfacesv\\fbase.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{BA692895-B8B9-47EC-8922-FA9355E63FB4}|A1-PV.vbproj|solutionrelative:interfacesv\\fbase.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BA692895-B8B9-47EC-8922-FA9355E63FB4}|A1-PV.vbproj|C:\\Users\\angel\\Documents\\GitHub\\ProgramacionVisual-A1\\A1-PV\\interfacesv\\fmenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{BA692895-B8B9-47EC-8922-FA9355E63FB4}|A1-PV.vbproj|solutionrelative:interfacesv\\fmenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BA692895-B8B9-47EC-8922-FA9355E63FB4}|A1-PV.vbproj|C:\\Users\\angel\\Documents\\GitHub\\ProgramacionVisual-A1\\A1-PV\\interfacesv\\fmenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{BA692895-B8B9-47EC-8922-FA9355E63FB4}|A1-PV.vbproj|solutionrelative:interfacesv\\fmenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA692895-B8B9-47EC-8922-FA9355E63FB4}|A1-PV.vbproj|c:\\users\\angel\\documents\\github\\programacionvisual-a1\\a1-pv\\interfacesv\\frandom.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BA692895-B8B9-47EC-8922-FA9355E63FB4}|A1-PV.vbproj|solutionrelative:interfacesv\\frandom.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA692895-B8B9-47EC-8922-FA9355E63FB4}|A1-PV.vbproj|c:\\users\\angel\\documents\\github\\programacionvisual-a1\\a1-pv\\interfacesv\\fbase2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BA692895-B8B9-47EC-8922-FA9355E63FB4}|A1-PV.vbproj|solutionrelative:interfacesv\\fbase2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA692895-B8B9-47EC-8922-FA9355E63FB4}|A1-PV.vbproj|c:\\users\\angel\\documents\\github\\programacionvisual-a1\\a1-pv\\interfacesv\\frandom.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{BA692895-B8B9-47EC-8922-FA9355E63FB4}|A1-PV.vbproj|solutionrelative:interfacesv\\frandom.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA692895-B8B9-47EC-8922-FA9355E63FB4}|A1-PV.vbproj|C:\\Users\\angel\\Documents\\GitHub\\ProgramacionVisual-A1\\A1-PV\\interfacesv\\fbase2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{BA692895-B8B9-47EC-8922-FA9355E63FB4}|A1-PV.vbproj|solutionrelative:interfacesv\\fbase2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 230,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,20 +66,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "FRandom.vb",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\GitHub\\ProgramacionVisual-A1\\A1-PV\\InterfacesV\\FRandom.vb",
+              "RelativeDocumentMoniker": "InterfacesV\\FRandom.vb",
+              "ToolTip": "C:\\Users\\angel\\Documents\\GitHub\\ProgramacionVisual-A1\\A1-PV\\InterfacesV\\FRandom.vb",
+              "RelativeToolTip": "InterfacesV\\FRandom.vb",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wCEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-29T22:50:24.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FRandom.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\GitHub\\ProgramacionVisual-A1\\A1-PV\\InterfacesV\\FRandom.vb",
+              "RelativeDocumentMoniker": "InterfacesV\\FRandom.vb",
+              "ToolTip": "C:\\Users\\angel\\Documents\\GitHub\\ProgramacionVisual-A1\\A1-PV\\InterfacesV\\FRandom.vb [Dise\u00F1o]",
+              "RelativeToolTip": "InterfacesV\\FRandom.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-29T22:49:17.166Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "FBase2.vb",
               "DocumentMoniker": "C:\\Users\\angel\\Documents\\GitHub\\ProgramacionVisual-A1\\A1-PV\\InterfacesV\\FBase2.vb",
               "RelativeDocumentMoniker": "InterfacesV\\FBase2.vb",
               "ToolTip": "C:\\Users\\angel\\Documents\\GitHub\\ProgramacionVisual-A1\\A1-PV\\InterfacesV\\FBase2.vb",
               "RelativeToolTip": "InterfacesV\\FBase2.vb",
-              "ViewState": "AgIAAAMAAAAAAAAAAAA1wBkAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowC4AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-09-29T21:23:44.783Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "FBase2.vb [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\angel\\Documents\\GitHub\\ProgramacionVisual-A1\\A1-PV\\InterfacesV\\FBase2.vb",
               "RelativeDocumentMoniker": "InterfacesV\\FBase2.vb",
@@ -91,45 +116,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FBase.vb",
-              "DocumentMoniker": "C:\\Users\\angel\\Documents\\GitHub\\ProgramacionVisual-A1\\A1-PV\\InterfacesV\\FBase.vb",
-              "RelativeDocumentMoniker": "InterfacesV\\FBase.vb",
-              "ToolTip": "C:\\Users\\angel\\Documents\\GitHub\\ProgramacionVisual-A1\\A1-PV\\InterfacesV\\FBase.vb",
-              "RelativeToolTip": "InterfacesV\\FBase.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-09-28T21:46:34.487Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FBase.vb [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\angel\\Documents\\GitHub\\ProgramacionVisual-A1\\A1-PV\\InterfacesV\\FBase.vb",
-              "RelativeDocumentMoniker": "InterfacesV\\FBase.vb",
-              "ToolTip": "C:\\Users\\angel\\Documents\\GitHub\\ProgramacionVisual-A1\\A1-PV\\InterfacesV\\FBase.vb [Dise\u00F1o]",
-              "RelativeToolTip": "InterfacesV\\FBase.vb [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-09-28T21:25:49.391Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "FMenu.vb",
               "DocumentMoniker": "C:\\Users\\angel\\Documents\\GitHub\\ProgramacionVisual-A1\\A1-PV\\InterfacesV\\FMenu.vb",
               "RelativeDocumentMoniker": "InterfacesV\\FMenu.vb",
               "ToolTip": "C:\\Users\\angel\\Documents\\GitHub\\ProgramacionVisual-A1\\A1-PV\\InterfacesV\\FMenu.vb",
               "RelativeToolTip": "InterfacesV\\FMenu.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAIA9wBEAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-09-28T05:23:28.796Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "FMenu.vb [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\angel\\Documents\\GitHub\\ProgramacionVisual-A1\\A1-PV\\InterfacesV\\FMenu.vb",
               "RelativeDocumentMoniker": "InterfacesV\\FMenu.vb",

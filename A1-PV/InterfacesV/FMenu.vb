@@ -1,7 +1,7 @@
 ﻿Imports System.Drawing.Text
 
 Public Class FMenu
-    Private Sub BtnRepetitiva1_Click(sender As Object, e As EventArgs) Handles BtnRepetitiva1.Click
+    Private Sub BtnRepetitiva1_Click(sender As Object, e As EventArgs)
         FBase.Show()
         Me.Hide()
     End Sub
@@ -10,13 +10,13 @@ Public Class FMenu
         Me.Hide()
     End Sub
 
-    Private Sub BtnSelectiva1_Click(sender As Object, e As EventArgs) Handles BtnSelectiva1.Click
-
-        Me.Hide()
-    End Sub
-
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
+    End Sub
+
+    Private Sub Button2_Click(sender As Object, e As EventArgs)
+        FRandom.Show()
+        Me.Hide()
     End Sub
 
 

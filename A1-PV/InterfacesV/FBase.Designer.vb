@@ -47,7 +47,7 @@ Partial Class FBase
         Me.GroupBox1.Controls.Add(Me.Label3)
         Me.GroupBox1.Controls.Add(Me.Label2)
         Me.GroupBox1.Controls.Add(Me.Label1)
-        Me.GroupBox1.Location = New System.Drawing.Point(5, 27)
+        Me.GroupBox1.Location = New System.Drawing.Point(4, 52)
         Me.GroupBox1.Name = "GroupBox1"
         Me.GroupBox1.Size = New System.Drawing.Size(783, 376)
         Me.GroupBox1.TabIndex = 1
@@ -134,7 +134,7 @@ Partial Class FBase
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(4, 2)
+        Me.Button1.Location = New System.Drawing.Point(4, 12)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(141, 25)
         Me.Button1.TabIndex = 2
@@ -149,7 +149,7 @@ Partial Class FBase
         Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.GroupBox1)
         Me.Name = "FBase"
-        Me.Text = "FBase"
+        Me.Text = "Estructura repetitiva 1"
         Me.GroupBox1.ResumeLayout(False)
         Me.GroupBox1.PerformLayout()
         Me.ResumeLayout(False)

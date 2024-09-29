@@ -25,3 +25,4 @@ C:\Users\angel\Documents\GitHub\ProgramacionVisual-A1\A1-PV\obj\Debug\A1-PV.exe
 C:\Users\angel\Documents\GitHub\ProgramacionVisual-A1\A1-PV\obj\Debug\A1-PV.xml
 C:\Users\angel\Documents\GitHub\ProgramacionVisual-A1\A1-PV\obj\Debug\A1-PV.pdb
 C:\Users\angel\Documents\GitHub\ProgramacionVisual-A1\A1-PV\obj\Debug\A1_PV.FBase2.resources
+C:\Users\angel\Documents\GitHub\ProgramacionVisual-A1\A1-PV\obj\Debug\A1_PV.FRandom.resources
