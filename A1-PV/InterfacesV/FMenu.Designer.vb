@@ -27,6 +27,7 @@ Partial Class FMenu
         Me.BtnSelectiva1 = New System.Windows.Forms.Button()
         Me.Label1 = New System.Windows.Forms.Label()
         Me.BtnRepetitiva1 = New System.Windows.Forms.Button()
+        Me.Button1 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'Label3
@@ -77,18 +78,28 @@ Partial Class FMenu
         Me.BtnRepetitiva1.Text = "Tabla de multiplicar"
         Me.BtnRepetitiva1.UseVisualStyleBackColor = True
         '
-        'Form1
+        'Button1
+        '
+        Me.Button1.Location = New System.Drawing.Point(316, 150)
+        Me.Button1.Name = "Button1"
+        Me.Button1.Size = New System.Drawing.Size(164, 43)
+        Me.Button1.TabIndex = 13
+        Me.Button1.Text = "Potenciación"
+        Me.Button1.UseVisualStyleBackColor = True
+        '
+        'FMenu
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(686, 482)
+        Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.Label3)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.BtnSelectiva1)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.BtnRepetitiva1)
-        Me.Name = "Form1"
-        Me.Text = "Menu"
+        Me.Name = "FMenu"
+        Me.Text = "v"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -98,4 +109,5 @@ Partial Class FMenu
     Friend WithEvents BtnSelectiva1 As Button
     Friend WithEvents Label1 As Label
     Friend WithEvents BtnRepetitiva1 As Button
+    Friend WithEvents Button1 As Button
 End Class

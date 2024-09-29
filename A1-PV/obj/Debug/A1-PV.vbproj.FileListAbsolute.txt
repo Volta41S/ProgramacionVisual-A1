@@ -11,3 +11,17 @@ C:\Users\angel\Documents\A1-PV\obj\Debug\A1-PV.xml
 C:\Users\angel\Documents\A1-PV\obj\Debug\A1-PV.pdb
 C:\Users\angel\Documents\A1-PV\obj\Debug\A1_PV.FMenu.resources
 C:\Users\angel\Documents\A1-PV\obj\Debug\A1_PV.FBase.resources
+C:\Users\angel\Documents\GitHub\ProgramacionVisual-A1\A1-PV\bin\Debug\A1-PV.exe.config
+C:\Users\angel\Documents\GitHub\ProgramacionVisual-A1\A1-PV\bin\Debug\A1-PV.exe
+C:\Users\angel\Documents\GitHub\ProgramacionVisual-A1\A1-PV\bin\Debug\A1-PV.pdb
+C:\Users\angel\Documents\GitHub\ProgramacionVisual-A1\A1-PV\bin\Debug\A1-PV.xml
+C:\Users\angel\Documents\GitHub\ProgramacionVisual-A1\A1-PV\obj\Debug\A1-PV.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\GitHub\ProgramacionVisual-A1\A1-PV\obj\Debug\A1_PV.FBase.resources
+C:\Users\angel\Documents\GitHub\ProgramacionVisual-A1\A1-PV\obj\Debug\A1_PV.FMenu.resources
+C:\Users\angel\Documents\GitHub\ProgramacionVisual-A1\A1-PV\obj\Debug\A1_PV.Resources.resources
+C:\Users\angel\Documents\GitHub\ProgramacionVisual-A1\A1-PV\obj\Debug\A1-PV.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\GitHub\ProgramacionVisual-A1\A1-PV\obj\Debug\A1-PV.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\GitHub\ProgramacionVisual-A1\A1-PV\obj\Debug\A1-PV.exe
+C:\Users\angel\Documents\GitHub\ProgramacionVisual-A1\A1-PV\obj\Debug\A1-PV.xml
+C:\Users\angel\Documents\GitHub\ProgramacionVisual-A1\A1-PV\obj\Debug\A1-PV.pdb
+C:\Users\angel\Documents\GitHub\ProgramacionVisual-A1\A1-PV\obj\Debug\A1_PV.FBase2.resources

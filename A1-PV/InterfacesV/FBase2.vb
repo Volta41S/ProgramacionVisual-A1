@@ -1,21 +1,6 @@
-﻿Imports System.Windows
+﻿Imports System.Diagnostics.Eventing.Reader
 
-Public Class FBase
-    'Realiza la operacion para tabla de multiplicar'
-    Private Sub RTablaMultiplicar()
-        Dim Valor1, Valor2, i As Integer
-        Dim resultado As String
-        resultado = ""
-        Valor1 = CInt(TextBox1.Text)
-        Valor2 = CInt(TextBox2.Text)
-        TextBox3.Text = ""
-        For i = 1 To Valor2
-            resultado += ($"{Valor1} x {i} = ") + CStr(i * Valor1) + vbNewLine
-        Next
-        TextBox3.Text = resultado
-    End Sub
-
-    'Cierra la ventana, limpia las cajas y va al menu
+Public Class FBase2
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         FMenu.Show()
         TextBox1.Text = ""
@@ -24,9 +9,31 @@ Public Class FBase
         Me.Hide()
     End Sub
 
-    'Llama a la funcion para realizar la tabla de multiplicacion
+    Private Sub Potenciar()
+        Dim Valor1, Valor2, i, resultado As Integer
+
+
+        Valor1 = CInt(TextBox1.Text)
+        Valor2 = CInt(TextBox2.Text)
+        TextBox3.Text = ""
+        resultado = Valor1
+        If Valor2 > 1 Then
+            For i = 2 To Valor2
+                resultado = resultado * Valor1
+            Next
+        Else
+            If Valor2 = 1 Then
+
+                resultado = Valor1
+            Else
+                resultado = 0
+            End If
+        End If
+        TextBox3.Text = ($"El numero {Valor1} elevado a la {Valor2} es igual a: {resultado}") + vbNewLine
+    End Sub
+
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
-        RTablaMultiplicar()
+        Potenciar()
     End Sub
 
     'Limpia la caja de resultado
